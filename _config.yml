@@ -5,7 +5,7 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Mark DellaPosta # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -18,23 +18,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "Mark.DellaPosta25@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: <a href="https://www.facebook.com/mark.dellaposta.71">Facebook Profile</a>
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "markdp25" # github profile name, e.g. "madebymunsters"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: "@MarkDP25"
+  linkedin: <a href="https://www.linkedin.com/in/mark-dellaposta-02575577"> Linkedin Profile</a> # Full URL
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: <a href="https://stackexchange.com/users/11298687/markdp25"> Stack Exchange </a> # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "@MarkDP25"
   wordpress:
   youtube:
 
