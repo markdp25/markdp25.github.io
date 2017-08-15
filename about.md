@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-I am currently a Bloc student in their Part-Time Web Development Program. Ever since I was a little kid growing up in Rhode Island, I have had a passion for computers and technology, and that passion still exists today which is why I am excited to start my new career in web development. Some other passions of mine include boating, sports, and reading.
+I am currently a Bloc student in their Part-Time Web Development Program. Ever since I was a little kid growing up in Rhode Island, I have had a passion for computers and technology, and that passion still exists today which is why I am excited to start my new career in web development. Some other passions of mine include boating, sports, music, reading, and dogs.
 
 My Journey:
 
