@@ -6,7 +6,7 @@ short-description: BlocJams is a music player web app built with JavaScript and 
 ---
 
 {:.center}
-![]({{site.baseurl}}/img/bloc_jams_screenshot.png)
+![]({{ site.baseurl }}/img/bloc_jams_screenshot.png)
 
 ## Summary:
 
@@ -30,41 +30,12 @@ The problems we had to solve were:
 
 ## Solution:
 
-To make our page responsive we used viewport and media queries
-
-{% highlight js %}
-
-@media (max-width: 640px) and (min-width: 320px) {
-     .album-view-details {
-         text-align: center;
-     }
-
-     .album-view-title {
-         margin-top: 0;
-     }
- }
-
- @media (max-width: 1024px) and (min-width: 320px) {
-    .album-view-song-list {
-         position: relative;
-         top: 1rem;
-         width: 80%;
-         margin: auto;
-     }
-{% endhighlight %}
+To make our page responsive we used viewport and media queries.
 
 We used jQuery to help program easier with JavaScript and to make our page more dynamic.
 
 {% highlight js %}
 
-var createSongRow = function(songNumber, songName, songLength) {
-    var template =
-        '<tr class="album-view-song-item">'
-    + '     <td class="song-item-number" data-song-number="' + songNumber + '">' + songNumber + '</td>'
-    + '     <td class="song-item-title">' + songName + '</td>'
-    + '     <td class="song-item-duration">' + filterTimeCode(songLength) + '</td>'
-    + '     </tr>'
-    ;
 
     var $row = $(template);
 
