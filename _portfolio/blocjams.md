@@ -1,12 +1,12 @@
 ---
 layout: post
-title: blocJams
+title: BlocJams
 thumbnail-path: "img/bloc_jams_screenshot.png"
 short-description: BlocJams is a music player web app built with JavaScript and jQuery.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloc_jams_screenshot.png)
+![]({{site.baseurl}}/img/bloc_jams_screenshot.png)
 
 ##Summary:
 
@@ -32,8 +32,8 @@ The problems we had to solve were:
 
 To make our page responsive we used viewport and media queries
 
-```
-javascript
+{% highlight js %}
+//media queries
 @media (max-width: 640px) and (min-width: 320px) {
      .album-view-details {
          text-align: center;
@@ -51,13 +51,12 @@ javascript
          width: 80%;
          margin: auto;
      }
-     ```
+{% endhighlight %}
 
-We used jQuery to help program easier with JavaScript and to make our page more dynamic:
+We used jQuery to help program easier with JavaScript and to make our page more dynamic.
 
-```
-javascript
-
+{% highlight js %}
+//creating a song row 
 var createSongRow = function(songNumber, songName, songLength) {
     var template =
         '<tr class="album-view-song-item">'
@@ -128,7 +127,7 @@ var createSongRow = function(songNumber, songName, songLength) {
             songNumberCell.html(playButtonTemplate);
         }
     };
-```
+{% endhighlight %}
 
 ## Conclusion:
 
