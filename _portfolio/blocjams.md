@@ -1,18 +1,19 @@
 ---
 layout: post
-title: blocJams
+title: BlocJams
 thumbnail-path: "img/bloc_jams_screenshot.png"
 short-description: BlocJams is a music player web app built with JavaScript and jQuery.
+
 ---
 
 {:.center}
 ![]({{ site.baseurl }}/img/bloc_jams_screenshot.png)
 
-##Summary:
+## Summary:
 
 BlocJams is a music streaming web application like Spotify that used HTML, CSS, JavaScript, and jQuery to build.
 
-##Explanation:
+## Explanation:
 
 BlocJams was the first project built during my web development studies at Bloc. During this project we had integrate several things: responsive design, animations, and JavaScript to create a functioning collection of albums pages along with the ability to play a sample album. We also used DOM scripting done originally by vanilla JavaScript but was later refactored using jQuery.
 
@@ -30,10 +31,10 @@ The problems we had to solve were:
 
 ## Solution:
 
-To make our page responsive we used viewport and media queries
+To make our page responsive we used viewport and media queries.
 
-```
-javascript
+{% highlight js %}
+
 @media (max-width: 640px) and (min-width: 320px) {
      .album-view-details {
          text-align: center;
@@ -51,21 +52,14 @@ javascript
          width: 80%;
          margin: auto;
      }
-     ```
+ }
 
-We used jQuery to help program easier with JavaScript and to make our page more dynamic:
+ {% endhighlight %}
 
-```
-javascript
+We used jQuery to help program easier with JavaScript and to make our page more dynamic.
 
-var createSongRow = function(songNumber, songName, songLength) {
-    var template =
-        '<tr class="album-view-song-item">'
-    + '     <td class="song-item-number" data-song-number="' + songNumber + '">' + songNumber + '</td>'
-    + '     <td class="song-item-title">' + songName + '</td>'
-    + '     <td class="song-item-duration">' + filterTimeCode(songLength) + '</td>'
-    + '     </tr>'
-    ;
+{% highlight js %}
+
 
     var $row = $(template);
 
@@ -128,7 +122,7 @@ var createSongRow = function(songNumber, songName, songLength) {
             songNumberCell.html(playButtonTemplate);
         }
     };
-```
+{% endhighlight %}
 
 ## Conclusion:
 

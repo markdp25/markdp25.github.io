@@ -32,6 +32,29 @@ The problems we had to solve were:
 
 To make our page responsive we used viewport and media queries.
 
+{% highlight js %}
+
+@media (max-width: 640px) and (min-width: 320px) {
+     .album-view-details {
+         text-align: center;
+     }
+
+     .album-view-title {
+         margin-top: 0;
+     }
+ }
+
+ @media (max-width: 1024px) and (min-width: 320px) {
+    .album-view-song-list {
+         position: relative;
+         top: 1rem;
+         width: 80%;
+         margin: auto;
+     }
+ }
+
+ {% endhighlight %}
+
 We used jQuery to help program easier with JavaScript and to make our page more dynamic.
 
 {% highlight js %}
