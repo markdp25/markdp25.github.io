@@ -3,6 +3,7 @@ layout: post
 title: BlocJams
 thumbnail-path: "img/bloc_jams_screenshot.png"
 short-description: BlocJams is a music player web app built with JavaScript and jQuery.
+
 ---
 
 {:.center}
@@ -12,7 +13,8 @@ short-description: BlocJams is a music player web app built with JavaScript and 
 
 BlocJams is a music streaming web application like Spotify that used HTML, CSS, JavaScript, and jQuery to build.
 
-## Explanation:
+
+## Explanation
 
 BlocJams was the first project built during my web development studies at Bloc. During this project we had integrate several things: responsive design, animations, and JavaScript to create a functioning collection of albums pages along with the ability to play a sample album. We also used DOM scripting done originally by vanilla JavaScript but was later refactored using jQuery.
 

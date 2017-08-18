@@ -1,12 +1,12 @@
 ---
 layout: post
 title: BlocJams
-thumbnail-path: "img/bloc_jams_screenshot.png"
+thumbnail-path: "img/bloc_jams_logo.png"
 short-description: BlocJams is a music player web app built with JavaScript and jQuery.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/bloc_jams_screenshot.png)
+![]({{ site.baseurl }}/img/bloc_jams_logo.png)
 
 ## Summary:
 
