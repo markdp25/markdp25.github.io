@@ -1,0 +1,7 @@
+---
+layout: post
+title: My Journey to Bloc
+---
+Let's start by flashing back a few years. It was May of 2013 and I had just finished my graduation from a small, liberal arts school called Saint Anselm's College in Manchester, NH. I was a young guy, Bachelor's Degree in hand, and excited to get out and take on the world. There was only one problem, I had no idea what I wanted to do. Granted that is a problem that a lot of people fresh out of college seem to have, but the old notion that you're supposed to have your life figured out seemed daunting nonetheless.
+
+A week later, I found myself sitting at my kitchen table, searching the internet for jobs. Still without a clue on what I really wanted to do but knowing that I needed to get my foot in the door somewhere to try and start a career. I started to send out applications and resumes, got some call backs from companies that have outdoor salesmen who sell office products, went on interviews with them and came back knowing that it was not what I wanted to do. For a week or two there was a lull in call backs and I started talking with my family about those sales jobs, doing it for a few years just to get experience and to use it as a stepping stone to another career. A few days later, I got a call from Yelp, they wanted to invite me in for an interview. I hopped on a train from Rhode Island to New York City a few days later for the interview and then a week later, I was employed as an Account Executive for Yelp. It was a great feeling to have a job.

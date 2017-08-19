@@ -1,0 +1,11 @@
+---
+layout: post
+title: Journey leads me to Bloc
+---
+Here I am in 2017, over two years into my job as a Sales Manager in Boston for Scotts Miracle Gro and I am doing well in it. I'm back in Boston, which is closer to my family and my college friends, able to go to see the Boston Red Sox and the New England Patriots play, everything was great, except for one thing. I was still unhappy at current place in my career. I was doing great in my job but what was lacking for me was opportunities for me to grow a career and progress with in a company.
+
+Seeing as there was no real room for growth for me, I decided to consider other options. I had a long talk with my parents and was trying to figure out what my next step should be.
+
+That is when my parents asked me what I really like to do and I said that I loved technology and sports. Clearly, I was not going to be a professional athlete considering I was 4 years removed from any competitive athletics besides my weekly basketball mens league. Then I started to think about technology. Growing up I was always interested and passionate about technology, I always found myself playing with computers, reading about different technologies and keeping up to date on the latest trends and new products. Seeing how the economy was shifting to digital, I started to look into technology jobs. I had bare minimum engagement with programming before than but came across programs like Bloc. It is a big commitment so I wanted to make sure it was right for me.
+
+I started off by doing free tutorials online through Codecademy. After completing tutorials in JavaScript, HTML, CSS, Ruby, Responsive Design, and jQuery, I realized that this is what I wanted to do. I loved it. I started to look at different bootcamps, some full time and some part time, full time would help me get to my end goal quicker, but part time would allow me to keep my job and benefits while learning these new skills. I knew it was not going to be easy but that was when I decided to make my commitment to and started to apply to bootcamps. I had an interview with Bloc and everything seemed to align with what I wanted for pace, time, commitment, and curriculum. It was the perfect fit and partially in to the program now, I am glad I did it and certain it has been the best decision I have made professionally so far.
