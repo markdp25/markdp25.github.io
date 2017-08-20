@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio-kami" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://markdp25.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
+url: "http://markdp25.github.io/portfolio-kami" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
