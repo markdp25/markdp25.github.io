@@ -1,3 +1,4 @@
+
 var elements = document.getElementsByTagName('script')
 
 Array.prototype.forEach.call(elements, function(element) {
