@@ -1,7 +1,7 @@
 
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http:mark-dellaposta.com" # the base hostname & protocol for your site
+url: "http://mark-dellaposta.com" # the base hostname & protocol for your site
 
 
 # THEME-SPECIFIC CONFIGURATION
