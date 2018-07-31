@@ -13,7 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Web Developer</h1>
-     <p>Boston based Full Stack Developer with experience in technologies such as JavaScript, React, Angular, Ruby, and Rails</p>
+     <p>Boston based Full Stack Developer with experience using technologies such as JavaScript, React, Angular, Ruby, and Rails</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
