@@ -13,7 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <h1>Web Developer</h1>
-     <p>I'm a web developer currently in the Bloc web development program.</p>
+     <p>Full Stack Web Developer</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
